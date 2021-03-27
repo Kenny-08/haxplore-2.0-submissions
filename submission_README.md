@@ -1,14 +1,15 @@
 # HaXplore 2.0 - Submission Report Format
 
-This is the official code repository for _TEAM NAME_ . This _type of application_ was developed during HaXplore 2.0, 
+This is the official code repository for _That_One_Guy_ . This _"Traceability of Organic Food
+" Web App_ was developed during HaXplore 2.0, 
 the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
 ### _Team Name_
 
-* _Member_
-* _Member_
+* _Kenny Patel_
+* _Diya Agrawal_
 
-#### _Project Name_
+#### _Traceability of Organic Food_
 
 
 #### Overview
