@@ -45,8 +45,11 @@ This is an app for digital storage and management of complaints.
 ### Screenshots/Demo Video
 
 Below are some of the screenshots from our App
+<p float="left">
+  <img src= https://user-images.githubusercontent.com/64766655/112743505-95340900-8fb5-11eb-8dc3-a08115c5b76e.jpeg width= "250" height= "500" hspace="20"/> 
+  <img src= https://user-images.githubusercontent.com/64766655/112743817-3ae87780-8fb8-11eb-891c-174e2dec5cfb.png width= "250" height= "500" hspace="20"/> 
+</p>
 
-<img src= https://user-images.githubusercontent.com/64766655/112743505-95340900-8fb5-11eb-8dc3-a08115c5b76e.jpeg width= "250" height= "500" hspace="20"/> 
 <p float="left">
   <img src= https://user-images.githubusercontent.com/64766655/93714303-4aa58000-fb7f-11ea-85e4-88d1f192edec.jpeg width= "250" height= "500" hspace="20"/> 
   <img src= https://user-images.githubusercontent.com/64766655/112743508-9d8c4400-8fb5-11eb-920d-6380b42c8485.jpeg width= 250 height= "500" hspace="20"/> 
