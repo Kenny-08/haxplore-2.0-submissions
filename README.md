@@ -1,7 +1,6 @@
-# HaXplore 2.0 - Submission Report Format
+# InstiComplaints-App
 
-This is the official code repository for _That_One_Guy_ . This _"Traceability of Organic Food
-" Web App_ was developed during HaXplore 2.0, 
+This is the official code repository for _That_One_Guy_ . This _InstiComplaints App_ was developed during HaXplore 2.0, 
 the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
 ### _Team Name_
@@ -9,7 +8,7 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 * _Kenny Patel_
 * _Diya Agrawal_
 
-#### _Traceability of Organic Food_
+#### _InstiComplaints-App_
 
 
 #### Overview
