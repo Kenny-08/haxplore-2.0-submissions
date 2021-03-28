@@ -8,49 +8,55 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 * _Kenny Patel_
 * _Diya Agrawal_
 
-#### _InstiComplaints-App_
+### _InstiComplaints-App_
 
 
-#### Overview
+### Overview
 
-One of the significant concerns with organic food supply systems is to build trust in users about the authentication of ingredients. 
+In this fast-moving world with intensive coursework, students find very less time to share their problems. At almost every university, the students reside in hostels, and most of those hostels have offline complaint registration opening only 2-3 hours a day which some students miss. This project focuses on the digitization of these complaint management systems and provide their easy access to students.
 
-This involves the following major issues:
+This is an app for digital storage and management of complaints.
 
-* Whether the ingredients that the producer claims are actually used in the product.
-* Whether there is some ingredient (which might be harmful) present in the food but is not listed/informed by the producer.
-* Whether the ingredients meet some quality standard.
- 
-Our idea is to create a system that ensures all the above-mentioned issues. 
+#### Functionalities
 
-We propose a system that uses a machine learning based model that detects the ingredients present in the food through its image. The ingredients are ensured at the consumer end as well as the producer end to ensure transparency. We also maintain a check that ensures that the ingredients meet the quality standards, by comparing the ingredients detected by the algorithm with the quality standard requirements.
-.
+1. Digital Storage and Management of Complaints
 
-#### Technology used
+2. Different functionalities and UI for different types of users which are students, moderators and admins.
 
-- Spring
-- Machine Learning
+3. 24/7 Registration of Complaints
 
-#### Screenshots/Demo Video
+4. Authentication using Institute Email
+
+5. Students can add their complaints
+
+6. The categorisation of Complaints into categories like gymkhana, administration, student parliament, hostel or some other general complaint.
+
+7. Can see complaint of other students, can apply filters on complaints and bookmark them too.
+
+8. Status of Complaint - Open/Closed/ Pending/ Rejected
+
+9. Student will get notified as soon as status of his/bookmarked complaint is changed.
+
+### Technology used
+
+- flutter
+- firebase
+
+### Screenshots/Demo Video
 
 _Add some screens and a demo_
 
-#### Usage
+### Usage
 
-* Quality Standards are generated and stored.
-* The producer uploads the ingredients they use in making the product.
-* The ingredients are tested against the quality standards and rejected if they do not follow the standards. 
-* If the ingredients pass the quality standards, the producer produces the food product and sends it to be delivered to the customer.
-* Before delivery, the supplier uploads an image of the product.
-* A Machine learning model detects the ingredients present in it and compares them with the quality standards and the ingredients claimed by the producer in step 2.
-* If successful, the consumer gets notified that the product is good to take.
-* Then, the consumer takes the food and uploads its image, and the ingredients check mentioned in step 6  is performed again. This ensures that the food was not altered after check by the supplier and before the consumer receives it.
-* [This](https://www.researchgate.net/publication/312344611_Machine-Learning_models_to_predict_the_antioxidant_capacity_of_food) paper discusses the ML model that can be used for predicting ingredients
+* Clone the repository in your system.
+* Setup android studio and download the required technologies.
+* Either directly run the app connecting your phone with your pc and run "flutter run" or make an apk from this repo downlad android folder using git or any tool that you prefer.
+
 
 
 #### Tracks used
 
-[Amazon Web Services Track](https://docs.google.com/document/d/16wxLl_8Eqw_bcjY28FnP3bc2YihB6pCN5aPAmF5An_o/edit?usp=sharing)
+open track
 
 
 #### AWS Services Used
