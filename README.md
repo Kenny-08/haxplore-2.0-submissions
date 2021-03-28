@@ -21,21 +21,21 @@ This is an app for digital storage and management of complaints.
 
 1. Digital Storage and Management of Complaints
 
-2. Different functionalities and UI for different types of users which are students, moderators and admins.
+2. The app has 3 types of users – Students, Admin and Moderators. Moderators act as the mediators between the admins and the students in this system. They can be the members of elected hostel bodies.
 
 3. 24/7 Registration of Complaints
 
-4. Authentication using Institute Email
+4. Authentication using Institute Email-Id
 
 5. Students can add their complaints
 
 6. The categorisation of Complaints into categories like gymkhana, administration, student parliament, hostel or some other general complaint.
 
-7. Can see complaint of other students, can apply filters on complaints and bookmark them too.
+7. Users can see complaint of other students, can apply filters on complaints and bookmark them too.
 
 8. Status of Complaint - Open/Closed/ Pending/ Rejected
 
-9. Student will get notified as soon as status of his/bookmarked complaint is changed.
+9. Student will get notified as soon as status of his/her bookmarked complaint is changed.
 
 ### Technology used
 
@@ -44,7 +44,23 @@ This is an app for digital storage and management of complaints.
 
 ### Screenshots/Demo Video
 
-_Add some screens and a demo_
+Below are some of the screenshots from our App
+
+<img src= https://user-images.githubusercontent.com/64766655/112743505-95340900-8fb5-11eb-8dc3-a08115c5b76e.jpeg width= "250" height= "500" hspace="20"/> 
+<p float="left">
+  <img src= https://user-images.githubusercontent.com/64766655/93714303-4aa58000-fb7f-11ea-85e4-88d1f192edec.jpeg width= "250" height= "500" hspace="20"/> 
+  <img src= https://user-images.githubusercontent.com/64766655/112743508-9d8c4400-8fb5-11eb-920d-6380b42c8485.jpeg width= 250 height= "500" hspace="20"/> 
+  <img src= https://user-images.githubusercontent.com/64766655/112743544-d9270e00-8fb5-11eb-883b-d17aae98d544.png width= 250 height= "500" hspace="20"/> 
+</p>
+
+<p float="left">
+  <img src= https://user-images.githubusercontent.com/64766655/112743517-a9780600-8fb5-11eb-9f8d-79dbb1cfa599.jpeg width= 250 height= "500" hspace="20"/> 
+  <img src= https://user-images.githubusercontent.com/64766655/112743561-fc51bd80-8fb5-11eb-8c4b-d09ce9a42a4e.png width= 250 height= "500" hspace="20"/> 
+  <img src= https://user-images.githubusercontent.com/64766655/112743568-0ffd2400-8fb6-11eb-83f2-2f98020aa651.png width= 250 height= "500" hspace="20"/>
+</p>
+
+
+
 
 ### Usage
 
