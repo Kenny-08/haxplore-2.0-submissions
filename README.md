@@ -44,7 +44,7 @@ This is an app for digital storage and management of complaints.
 
 ### Screenshots/Demo Video
 
-[Presentation](https://drive.google.com/drive/u/1/folders/1L8o2rPdQ0WYstJpD909Ou7Q02zAzA-fo)
+[Presentation](https://drive.google.com/folderview?id=1Qev0Sn7q85AAEGuEPosDONWtxNfDgpfq)
 
 Below are some of the screenshots from our App
 <p float="left">
