@@ -2,16 +2,6 @@ import 'package:flutter/material.dart';
 
 List<List<String>> aboutPage = [
   [
-    'Siddhant Jain',
-    "Words don't matter unless your work says what you do",
-    'assets/jainsid2305.png'
-  ],
-  [
-    "Shubhanshu Saxena",
-    "Communicating your problems is the key to improvement",
-    'assets/shubhanshu02.jfif'
-  ],
-  [
     'Kenny Patel',
     "We have been working on this application with all our determination",
     'assets/kenny-08.jfif',
